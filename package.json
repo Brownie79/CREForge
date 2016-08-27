@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Brownie79/CREForge/issues"
   },
-  "homepage": "https://github.com/Brownie79/CREForge#readme"
+  "homepage": "https://github.com/Brownie79/CREForge#readme",
+  "dependencies": {
+    "mongodb": "^2.2.8"
+  }
 }
