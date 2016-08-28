@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Brownie79/CREForge#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "mongodb": "^2.2.8"
   }
 }

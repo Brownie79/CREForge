@@ -1,0 +1,128 @@
+[
+    {
+        "name" : "The Mart",
+        "reputation" : [1,5,4,5,5],
+        "vacancy" : "2nd Floor",
+        "location" : "123 Wacker",
+        "basic_terms" : {
+            "size" : 20000,
+            "lease_term" : 10,
+            "rent" : 21.50,
+            "prop_tax" : 8.50,
+            "op_cost" : 7.75,
+            "escalation" : 0.025,
+            "free_rent" : 10,
+            "allowance" : 60
+        }, 
+        "basic_lump_sum" : 0, 
+        "amenities" : ["exec lounge", "parking", "bike garage", "food court", "manned security", "steel&glass", "gym"]
+    },
+    {
+        "name" : "The Mart",
+        "reputation" : [1,5,4,5,5],
+        "vacancy" : "4th Floor",
+        "location" : "123 Wacker",
+        "basic_terms" : {
+            "size" : 25000,
+            "lease_term" : 5,
+            "rent" : 20.00,
+            "prop_tax" : 8.50,
+            "op_cost" : 7.75,
+            "escalation" : 0.025,
+            "free_rent" : 5,
+            "allowance" : 30
+        }, 
+        "basic_lump_sum" : 0,
+        "amenities" : ["exec lounge", "parking", "bike garage", "food court", "manned security", "steel&glass", "gym"]
+    },
+    {
+        "name" : "Aeon Building",
+        "reputation" : [2,4,3],
+        "vacancy" : "14th Floor",
+        "location" : "123 Wacker",
+        "basic_terms" : {
+            "size" : 18000,
+            "lease_term" : 20,
+            "rent" : 16.50,
+            "prop_tax" : 10.50,
+            "op_cost" : 4.75,
+            "escalation" : 0.03,
+            "free_rent" : 18,
+            "allowance" : 70
+        }, 
+        "basic_lump_sum" : 0,
+        "amenities" : ["parking", "bike garage", "manned security", "steel&glass"]
+    },
+    {
+        "name" : "Willis Tower",
+        "reputation" : [5,5,4],
+        "vacancy" : "40th Floor",
+        "location" : "123 Wacker",
+        "basic_terms" : {
+            "size" : 22000,
+            "lease_term" : 14,
+            "rent" : 24.50,
+            "prop_tax" : 8.50,
+            "op_cost" : 7.75,
+            "escalation" : 0.02,
+            "free_rent" : 14,
+            "allowance" : 80
+        }, 
+        "basic_lump_sum" : 0,
+        "amenities" : ["parking", "food court", "manned security"]
+    },
+    {
+        "name" : "500 W Monroe",
+        "reputation" : [1,3,2,1,4],
+        "vacancy" : "7th Floor",
+        "location" : "123 Wacker",
+        "basic_terms" : {
+            "size" : 14000,
+            "lease_term" : 5,
+            "rent" : 14.50,
+            "prop_tax" : 8.50,
+            "op_cost" : 7.75,
+            "escalation" : 0.04,
+            "free_rent" : 3,
+            "allowance" : 30
+        }, 
+        "basic_lump_sum" : 0,
+        "amenities" : ["food court", "manned security", "steel&glass", "gym"]
+    },
+    {
+        "name" : "200 N Madison",
+        "reputation" : [4,4,5,5,3],
+        "vacancy" : "1st Floor",
+        "location" : "123 Wacker",
+        "basic_terms" : {
+            "size" : 15000,
+            "lease_term" : 18,
+            "rent" : 20.50,
+            "prop_tax" : 8.50,
+            "op_cost" : 7.75,
+            "escalation" : 0.025,
+            "free_rent" : 15,
+            "allowance" : 50
+        }, 
+        "basic_lump_sum" : 0,
+        "amenities" : ["exec lounge", "parking", "bike garage", "food court", "gym"]
+    },
+    {
+        "name" : "Johnson & Johnson",
+        "reputation" : [1,2,1,1,1],
+        "vacancy" : "6th Floor",
+        "location" : "123 Wacker",
+        "basic_terms" : {
+            "size" : 10000,
+            "lease_term" : 6,
+            "rent" : 14.50,
+            "prop_tax" : 9.50,
+            "op_cost" : 8.75,
+            "escalation" : 0.05,
+            "free_rent" : 4,
+            "allowance" : 10
+        }, 
+        "basic_lump_sum" : 0,
+        "amenities" : ["parking"]
+    }
+]

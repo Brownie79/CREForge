@@ -1,0 +1,28 @@
+[
+    {
+        "tennant" : "Louis Litt",
+        "requirements" : {
+            "location" : "124 Wacker",
+            "terms"    : {
+                "size" : 18500,
+                "lease_term" : 5,
+                "budget" : 1000000
+            }, 
+            "amentities" : ["parking", "manned security", "food court"]
+        }, 
+        "deals" : []
+    },
+    {
+        "tennant" : "Harvey Specter",
+        "requirements" : {
+            "location" : "124 Wacker",
+            "terms"    : {
+                "size" : 22000,
+                "lease_term" : 8,
+                "budget" : 5000000
+            }, 
+            "amentities" : ["parking", "manned security", "gym", "steel&glass"]
+        }, 
+        "deals" : []
+    }
+]
