@@ -1,11 +1,104 @@
 [
     {
-        
+        "name" : "The Merchandise Mart",
+        "vacancy" : "7th Floor",
+        "template_lease" : {
+            "leaseterms" : {
+                "lease_term" : 60,
+                "rental_rate" : 30,
+                "free_rent" : 5,
+                "tennant_improvement_budget" : 10000,
+                "effective_net_rate" : 0
+            },
+            "amentites" : ["pool", "executive lounge", "parking", "bike garage","food court", "24/7 access", "internet provider" ]
+        },
+        "auctions" : {
+
+        }        
     },
     {
+        "name" : "The Aeon",
+        "vacancy" : "9th Floor",
+        "template_lease" : {
+            "leaseterms" : {
+                "lease_term" : 60,
+                "rental_rate" : 30,
+                "free_rent" : 5,
+                "tennant_improvement_budget" : 10000,
+                "effective_net_rate" : 0
+            },
+            "amentites" : ["pool", "executive lounge", "parking", "bike garage","food court", "24/7 access", "internet provider" ]
+        },
+        "auctions" : {
 
+        }        
     },
     {
+        "name" : "Willis Tower",
+        "vacancy" : "12th Floor",
+        "template_lease" : {
+            "leaseterms" : {
+                "lease_term" : 60,
+                "rental_rate" : 30,
+                "free_rent" : 5,
+                "tennant_improvement_budget" : 10000,
+                "effective_net_rate" : 0
+            },
+            "amentites" : ["pool", "executive lounge", "parking", "bike garage","food court", "24/7 access", "internet provider" ]
+        },
+        "auctions" : {
 
-    }
+        }        
+    },
+    {
+        "name" : "IIT Tower",
+        "vacancy" : "5th Floor",
+        "template_lease" : {
+            "leaseterms" : {
+                "lease_term" : 60,
+                "rental_rate" : 30,
+                "free_rent" : 5,
+                "tennant_improvement_budget" : 10000,
+                "effective_net_rate" : 0
+            },
+            "amentites" : ["pool", "executive lounge", "parking", "bike garage","food court", "24/7 access", "internet provider" ]
+        },
+        "auctions" : {
+
+        }        
+    },
+    {
+        "name" : "Empire State Building",
+        "vacancy" : "2nd Floor",
+        "template_lease" : {
+            "leaseterms" : {
+                "lease_term" : 60,
+                "rental_rate" : 30,
+                "free_rent" : 5,
+                "tennant_improvement_budget" : 10000,
+                "effective_net_rate" : 0
+            },
+            "amentites" : ["pool", "executive lounge", "parking", "bike garage","food court", "24/7 access", "internet provider" ]
+        },
+        "auctions" : {
+
+        }        
+    },
+    {
+        "name" : "500 W Monroe",
+        "vacancy" : "10th Floor",
+        "template_lease" : {
+            "leaseterms" : {
+                "lease_term" : 60,
+                "rental_rate" : 30,
+                "free_rent" : 5,
+                "tennant_improvement_budget" : 10000,
+                "effective_net_rate" : 0
+            },
+            "amentites" : ["pool", "executive lounge", "parking", "bike garage","food court", "24/7 access", "internet provider" ]
+        },
+        "auctions" : {
+
+        }        
+    }        
 ]

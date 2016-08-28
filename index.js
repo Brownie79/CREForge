@@ -9,7 +9,9 @@
 //port listener
 app.listen(80, (err) => {
     if(err){console.log("Cannot listen on port 80: ", err);}
-    else {console.log("Server started on port 80!");}
+    else {
+        console.log("Server started on port 80!");
+    }
 });
 
 
