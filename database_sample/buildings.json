@@ -18,10 +18,10 @@
         "amenities" : ["exec lounge", "parking", "bike garage", "food court", "manned security", "steel&glass", "gym"]
     },
     {
-        "name" : "The Mart",
+        "name" : "Sante Fe Building",
         "reputation" : [1,5,4,5,5],
         "vacancy" : "4th Floor",
-        "location" : "123 Wacker",
+        "location" : "224 S. Michigan Ave",
         "basic_terms" : {
             "size" : 25000,
             "lease_term" : 5,
@@ -36,10 +36,10 @@
         "amenities" : ["exec lounge", "parking", "bike garage", "food court", "manned security", "steel&glass", "gym"]
     },
     {
-        "name" : "Aeon Building",
+        "name" : "Aon Center",
         "reputation" : [2,4,3],
         "vacancy" : "14th Floor",
-        "location" : "123 Wacker",
+        "location" : "200 E. Randolph St, Chicago, IL",
         "basic_terms" : {
             "size" : 18000,
             "lease_term" : 20,
